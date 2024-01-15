@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@audius/fetch-nft": "^0.1.8",
+    "@marlowe.io/runtime-lifecycle": "^0.2.0-beta",
+    "@marlowe.io/wallet": "^0.3.0-beta-rc2",
+    "discord.js": "^14.12.1",
+    "dotenv": "^16.3.1",
+    "node-fetch": "^2.7.0",
+    "openai": "^3.3.0",
+    "twilio": "^4.20.1"
+  }
+}
